@@ -1,6 +1,5 @@
 #!/bin/bash
-
-STRING="Hello World"
-STRING2="Just for testing how git and  github works."
-echo $STRING
-echo $STRING2
+# " Write a hello world script widout using letters: i, w, l, o; and no number
+# My solution: use mores code :)
+st=".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+echo $st
